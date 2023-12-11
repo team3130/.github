@@ -2,9 +2,9 @@
 
 We are *FIRST* Robotics Competition Team 3130, the ERRORs.
 
-From East Ridge High School located in Woodbury, Minnesota, our team is 15 years old and going on strong with 51 members!
+From East Ridge High School in Woodbury, Minnesota, our team is 15 years old and going on strong with 51 members!
 
-This is our team GitHub, containing all of our previous and current robot code and side projects.
+This is our team's GitHub, containing all of our previous and current robot code and side projects.
 <!--
 
 **Here are some ideas to get you started:**
